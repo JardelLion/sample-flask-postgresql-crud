@@ -1,4 +1,4 @@
-# Learn How to make a CRUD with python using FLASK, SQLALCHEMY
+# Learn How to make a CRUD with python using FLASK, SQLALCHEMY, POSTGRESQL
 # method use
 # GET
 # POST
